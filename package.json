@@ -1,0 +1,12 @@
+{
+  "name": "generator-focus",
+  "version": "0.1.0",
+  "description": " Focus + .Net||Java Projet generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "1.0.0"
+  }
+}
